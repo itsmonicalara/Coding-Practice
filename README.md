@@ -1,3 +1,3 @@
 # Coding Practice
 
-## 1. Data Structures
+### 1. Data Structures
