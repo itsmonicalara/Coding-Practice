@@ -1,1 +1,3 @@
-# My New Repository
+# Coding Practice
+
+## 1. Data Structures
